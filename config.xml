@@ -64,11 +64,11 @@
     <gap:splash src="splash.png" />
 
     <platform name="android">
-        <icon src="resources/android/icon/drawable-ldpi-icon.png" qualifier="ldpi"/>
-        <icon src="resources/android/icon/drawable-mdpi-icon.png" qualifier="mdpi"/>
-        <icon src="resources/android/icon/drawable-hdpi-icon.png" qualifier="hdpi"/>
-        <icon src="resources/android/icon/drawable-xhdpi-icon.png" qualifier="xhdpi"/>
-        <icon src="resources/android/icon/drawable-xxhdpi-icon.png" qualifier="xxhdpi"/>
+        <icon src="resources/android/icon/icon-36-ldpi.png" qualifier="ldpi"/>
+        <icon src="resources/android/icon/icon-48-mdpi.png.png" qualifier="mdpi"/>
+        <icon src="resources/android/icon/icon-72-hdpi.png" qualifier="hdpi"/>
+        <icon src="resources/android/icon/icon-96-xhdpi.png" qualifier="xhdpi"/>
+        <icon src="resources/android/icon/icon-144-xxhdpi.png" qualifier="xxhdpi"/>
         <icon src="resources/android/icon/drawable-xxxhdpi-icon.png" qualifier="xxxhdpi"/>
         <splash src="resources/android/splash/drawable-land-ldpi-screen.png" qualifier="land-ldpi"/>
         <splash src="resources/android/splash/drawable-land-mdpi-screen.png" qualifier="land-mdpi"/>
